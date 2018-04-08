@@ -11,4 +11,4 @@ new addedline.
 
 {Test branch 1}
 
-{Test branch 2}
+{Test branch 2 Git 分支，之后切回主分支，查看是否已经改变}
